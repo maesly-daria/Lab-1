@@ -1,0 +1,12 @@
+@import url('https@//fonts.googleleapis.com/css2?family=Roboto&display=swap');
+body {
+    background-color: #adadcf;
+    color: hsl(240, 31%, 27%);
+    padding: 15px;
+    font: normal 18px "Roboto", sans-serif;
+}
+h1 {
+    text-align: center;
+    color:  #131335;
+}
+
